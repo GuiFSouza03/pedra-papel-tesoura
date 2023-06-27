@@ -1,3 +1,4 @@
+# Pedra-Papel-Tesoura
 Este é um projeto simples do jogo Pedra, Papel e Tesoura desenvolvido usando HTML, CSS e JavaScript. O objetivo deste projeto é demonstrar a implementação básica do jogo e fornecer uma base para você entender como os elementos HTML, estilos CSS e a lógica JavaScript podem ser combinados para criar uma aplicação interativa.
 
 ## Como executar o projeto?
