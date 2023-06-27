@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#apresentation {
+    background-color: red;
+    padding: 10px;
+}
+
+#game {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+#player-score,
+#computer-score {
+    font-weight: bold;
+}
+
+#result {
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+#choice {
+    display: flex;
+    width: 30%;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+#player-choice,
+#computer-choice {
+    font-size: 30px;
+}
+
+#restart {
+    font-size: 30px;
+    display: none;
+}
+
+#round button {
+    font-size: 60px;
+}
+
+#round button,
+#restart {
+    cursor: pointer;
+    border: 5px solid;
+    border-radius: 40px;
+    padding: 10px 20px;
+    margin: 5px;
+}
